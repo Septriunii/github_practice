@@ -11,13 +11,13 @@ h1 {
   justify-content: center;
   width: 180px;
   padding: 10px;
-  background-color: blue;
+  background-color: red;
   margin-right: 10px;
 }
 .motherbox {
   display: flex;
   justify-content: center;
   align-items: center;
-  background-color: darkslategray;
+  background-color: gray;
   padding: 10px;
 }
