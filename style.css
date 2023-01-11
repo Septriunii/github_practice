@@ -14,3 +14,10 @@ h1 {
   background-color: blue;
   margin-right: 10px;
 }
+.motherbox {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: darkslategray;
+  padding: 10px;
+}
