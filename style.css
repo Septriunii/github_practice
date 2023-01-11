@@ -1,0 +1,23 @@
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+h1 {
+  color: white;
+}
+.box {
+  display: flex;
+  justify-content: center;
+  width: 180px;
+  padding: 10px;
+  background-color: blue;
+  margin-right: 10px;
+}
+.motherbox {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: darkslategray;
+  padding: 10px;
+}
